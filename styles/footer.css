@@ -37,3 +37,14 @@
         text-decoration: none;
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .lista-rodapé {
+        border-left: 1px solid gray;
+        padding-left: 1em;
+    }
+
+    .rodapé {
+        padding: 3em 0;
+    }
+}
