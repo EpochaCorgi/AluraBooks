@@ -3,6 +3,7 @@
 @import url("styles/carrossel.css");
 @import url("styles/topicos.css");
 @import url("styles/contato.css");
+@import url("styles/footer.css");
 
 :root {
     --cor-de-fundo: #EBECEE;
@@ -20,12 +21,3 @@ body {
     font-weight: 400;
 }
 
-.rodapé {
-    background-color: #F9F9F9;
-    color: black;
-    font-family: var(--fonte-principal);
-    font-size: 16px;
-    font-weight: 400;
-    border-top: 1px solid black;
-    padding: 1em;    
-}
